@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "host.bolt.valery_pasteleria_we_0u1y.twa",
+        "sha256_cert_fingerprints": ["2C:3C:60:2E:D4:EA:F1:38:3A:24:5E:D3:2F:9F:4C:FA:4D:1D:0D:63:75:78:1D:4D:6C:31:D6:AF:30:E6:E4:6B"]
+      }
+    }]
